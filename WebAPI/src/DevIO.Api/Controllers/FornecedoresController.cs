@@ -10,8 +10,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DevIO.Api.Controllers
 {
-    [Authorize]
-    [ApiVersion("1.0")]
     [Route("api/fornecedores")]
     public class FornecedoresController : MainController
     {
@@ -33,7 +31,6 @@ namespace DevIO.Api.Controllers
             _enderecoRepository = enderecoRepository;
         }
 
-        [AllowAnonymous]
         [HttpGet]
         public async Task<IEnumerable<FornecedorViewModel>> ObterTodos()
         {
