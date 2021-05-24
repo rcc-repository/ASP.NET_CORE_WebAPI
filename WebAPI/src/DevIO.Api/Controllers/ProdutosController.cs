@@ -75,6 +75,9 @@ namespace DevIO.Api.V1.Controllers
             }
 
             var produtoAtualizacao = await ObterProduto(id);
+
+            if (produtoAtualizacao == null) return NotFound();
+
             produtoViewModel.Imagem = produtoAtualizacao.Imagem;
             if (!ModelState.IsValid) return CustomResponse(ModelState);
 
@@ -119,7 +122,7 @@ namespace DevIO.Api.V1.Controllers
 
 
         [RequestSizeLimit(40000000)]
-        //[DisableRequestSizeLimit]
+        [DisableRequestSizeLimit]
         [HttpPost("imagem")]
         public ActionResult AdicionarImagem(IFormFile file)
         {
@@ -169,7 +172,7 @@ namespace DevIO.Api.V1.Controllers
                 return false;
             }
 
-            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/app/demo-webapi/src/assets", imgPrefixo + arquivo.FileName);
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", imgPrefixo + arquivo.FileName);
 
             if (System.IO.File.Exists(path))
             {

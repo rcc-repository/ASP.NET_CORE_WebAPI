@@ -1,10 +1,12 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using DevIO.Api.Extensions;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 
 namespace DevIO.Api.ViewModels
 {
-    //[ModelBinder(typeof(JsonWithFilesFormDataModelBinder), Name = "produto")]
+    [ModelBinder(typeof(JsonWithFilesFormDataModelBinder), Name = "produto")]
     public class ProdutoImagemViewModel
     {
         [Key]
