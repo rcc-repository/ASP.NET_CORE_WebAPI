@@ -22,8 +22,8 @@ namespace DevIO.Api.V1.Controllers
         public ProdutosController(INotificador notificador, 
                                   IProdutoRepository produtoRepository, 
                                   IProdutoService produtoService, 
-                                  IMapper mapper,
-                                  IUser user) : base(notificador, user)
+                                  IMapper mapper
+                                  ) : base(notificador)
         {
             _produtoRepository = produtoRepository;
             _produtoService = produtoService;
@@ -149,7 +149,7 @@ namespace DevIO.Api.V1.Controllers
 
             var imageDataByteArray = Convert.FromBase64String(arquivo);
 
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/app/demo-webapi/src/assets", imgNome);
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", imgNome);
 
             if (System.IO.File.Exists(filePath))
             {
@@ -184,7 +184,6 @@ namespace DevIO.Api.V1.Controllers
 
             return true;
         }
-
 
         private async Task<ProdutoViewModel> ObterProduto(Guid id)
         {
