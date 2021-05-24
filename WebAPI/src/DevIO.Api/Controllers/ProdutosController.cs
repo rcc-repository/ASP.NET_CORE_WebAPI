@@ -120,7 +120,6 @@ namespace DevIO.Api.V1.Controllers
             return CustomResponse(produtoViewModel);
         }
 
-
         [RequestSizeLimit(40000000)]
         [DisableRequestSizeLimit]
         [HttpPost("imagem")]
