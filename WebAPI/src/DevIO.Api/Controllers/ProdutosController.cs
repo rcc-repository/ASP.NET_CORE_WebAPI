@@ -10,7 +10,7 @@ using DevIO.Business.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevIO.Api.V1.Controllers
+namespace DevIO.Api.Controllers
 {
     [Route("api/produtos")]
     public class ProdutosController : MainController

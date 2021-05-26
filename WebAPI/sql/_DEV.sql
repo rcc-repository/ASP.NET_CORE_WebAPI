@@ -3,8 +3,12 @@
 
  --select NEWID()
 
- select * from Fornecedores
+ SELECT * FROM FORNECEDORES
 
- select * from Enderecos
+ SELECT * FROM ENDERECOS
 
- select * from Produtos
+ SELECT * FROM PRODUTOS
+
+ SELECT * FROM ASPNETUSERS
+ --UPDATE ASPNETUSERS SET LOCKOUTEND = NULL, ACCESSFAILEDCOUNT = 0
+ 
