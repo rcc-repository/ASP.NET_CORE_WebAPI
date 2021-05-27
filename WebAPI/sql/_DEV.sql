@@ -1,13 +1,13 @@
  
- use MinhaApiCore
+use MinhaApiCore
 
- --select NEWID()
+--select NEWID()
 
- SELECT * FROM FORNECEDORES
+SELECT * FROM FORNECEDORES
 
- SELECT * FROM ENDERECOS
+SELECT * FROM ENDERECOS
 
- SELECT * FROM PRODUTOS
+SELECT * FROM PRODUTOS
 
  
  --*******************************
@@ -15,12 +15,12 @@
  --*******************************
  
 SELECT * FROM AspNetUsers
+SELECT * FROM AspNetUserClaims
+
 SELECT * FROM AspNetRoles
 SELECT * FROM AspNetRoleClaims
- 
-SELECT * FROM AspNetUserTokens
+ SELECT * FROM AspNetUserTokens
 SELECT * FROM AspNetUserRoles
-SELECT * FROM AspNetUserClaims
 SELECT * FROM AspNetUserLogins
 
   
