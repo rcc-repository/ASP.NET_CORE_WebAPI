@@ -9,6 +9,18 @@
 
  SELECT * FROM PRODUTOS
 
- SELECT * FROM ASPNETUSERS
- --UPDATE ASPNETUSERS SET LOCKOUTEND = NULL, ACCESSFAILEDCOUNT = 0
  
+ --*******************************
+ --Identity EF Core
+ --*******************************
+ 
+SELECT * FROM AspNetUsers
+SELECT * FROM AspNetRoles
+SELECT * FROM AspNetRoleClaims
+ 
+SELECT * FROM AspNetUserTokens
+SELECT * FROM AspNetUserRoles
+SELECT * FROM AspNetUserClaims
+SELECT * FROM AspNetUserLogins
+
+  

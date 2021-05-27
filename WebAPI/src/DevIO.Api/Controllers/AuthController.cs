@@ -29,7 +29,7 @@ namespace DevIO.Api.Controllers
                               SignInManager<IdentityUser> signInManager, 
                               UserManager<IdentityUser> userManager, 
                               IOptions<AppSettings> appSettings,
-                              ILogger<AuthController> logger) : base(notificador)
+                              IUser user, ILogger<AuthController> logger) : base(notificador, user)
         {
             _signInManager = signInManager;
             _userManager = userManager;
