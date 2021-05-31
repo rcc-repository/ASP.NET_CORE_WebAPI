@@ -125,6 +125,7 @@ namespace DevIO.Api.Controllers
                 UserToken = new UserTokenViewModel
                 {
                     Id = user.Id,
+                    Name = user.UserName,
                     Email = user.Email,
                     Claims = claims.Select(c=> new ClaimViewModel{ Type = c.Type, Value = c.Value})
                 }
