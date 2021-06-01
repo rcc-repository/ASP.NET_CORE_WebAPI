@@ -15,9 +15,10 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
-namespace DevIO.Api.Controllers
+namespace DevIO.Api.V1.Controllers
 {
-    [Route("api")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}")]
     public class AuthController : MainController
     {
         private readonly SignInManager<IdentityUser> _signInManager;
@@ -25,9 +26,9 @@ namespace DevIO.Api.Controllers
         private readonly AppSettings _appSettings;
         private readonly ILogger _logger;
 
-        public AuthController(INotificador notificador, 
-                              SignInManager<IdentityUser> signInManager, 
-                              UserManager<IdentityUser> userManager, 
+        public AuthController(INotificador notificador,
+                              SignInManager<IdentityUser> signInManager,
+                              UserManager<IdentityUser> userManager,
                               IOptions<AppSettings> appSettings,
                               IUser user, ILogger<AuthController> logger) : base(notificador, user)
         {
@@ -63,7 +64,7 @@ namespace DevIO.Api.Controllers
 
             return CustomResponse(registerUser);
         }
-    
+
         [HttpPost("entrar")]
         public async Task<ActionResult> Login(LoginUserViewModel loginUser)
         {
@@ -73,7 +74,7 @@ namespace DevIO.Api.Controllers
 
             if (result.Succeeded)
             {
-                _logger.LogInformation("Usuario "+ loginUser.Email +" logado com sucesso");
+                _logger.LogInformation("Usuario " + loginUser.Email + " logado com sucesso");
                 return CustomResponse(await GerarJwt(loginUser.Email));
             }
             if (result.IsLockedOut)
@@ -127,7 +128,7 @@ namespace DevIO.Api.Controllers
                     Id = user.Id,
                     Name = user.UserName,
                     Email = user.Email,
-                    Claims = claims.Select(c=> new ClaimViewModel{ Type = c.Type, Value = c.Value})
+                    Claims = claims.Select(c => new ClaimViewModel { Type = c.Type, Value = c.Value })
                 }
             };
 

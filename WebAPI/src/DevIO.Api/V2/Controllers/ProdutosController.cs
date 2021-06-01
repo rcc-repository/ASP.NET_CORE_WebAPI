@@ -12,19 +12,20 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevIO.Api.Controllers
+namespace DevIO.Api.V2.Controllers
 {
     [Authorize]
-    [Route("api/produtos")]
+    [ApiVersion("2.0")]
+    [Route("api/v{version:apiVersion}/produtos")]
     public class ProdutosController : MainController
     {
         private readonly IProdutoRepository _produtoRepository;
         private readonly IProdutoService _produtoService;
         private readonly IMapper _mapper;
 
-        public ProdutosController(INotificador notificador, 
-                                  IProdutoRepository produtoRepository, 
-                                  IProdutoService produtoService, 
+        public ProdutosController(INotificador notificador,
+                                  IProdutoRepository produtoRepository,
+                                  IProdutoService produtoService,
                                   IMapper mapper,
                                   IUser user) : base(notificador, user)
         {
