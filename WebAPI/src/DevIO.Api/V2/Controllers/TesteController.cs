@@ -20,18 +20,6 @@ namespace DevIO.Api.V2.Controllers
         public string Valor()
         {
 
-            //throw new Exception("Error");
-
-            //try
-            //{
-            //    var i = 0;
-            //    var result = 42 / i;
-            //}
-            //catch (DivideByZeroException e)
-            //{
-            //    e.Ship(HttpContext);
-            //}
-
             _logger.LogTrace("Log de Trace");
             _logger.LogDebug("Log de Debug");
             _logger.LogInformation("Log de Informação");
