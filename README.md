@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img alt="ASP.NETCore" title="ASP.NETCore" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img/LogoCursoAPI.png" />
+  <img alt="ASP.NETCore" title="ASP.NETCore" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/LogoCursoAPI.png" />
 </h1>
