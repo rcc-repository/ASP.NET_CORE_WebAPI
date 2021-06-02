@@ -23,6 +23,7 @@
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01.HTTP/README.md"> 💻 Protocolo HTTP </a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/02.REST/README.md"> 💻 Visão sobre o REST </a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/03.JWT/README.md"> 💻 Visão sobre o JWT </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/04.VERSION_API/README.md"> 💻 Versões da API </a>
 </p>
 
 ## :rocket: Projeto
