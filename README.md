@@ -32,12 +32,13 @@
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/packages.png"> <b>💻 Packages instalados</b> </a>
 </p>
 
-	[] Projeto desenvolvido em 3 camadas (APP, Business e Data);
-	[] Uso de Repositórios;
-	[] Injeção de Dependência;
+	[] Visão Geral do HTTP;
+	[] API REST (GET / POST / PU / DELETE);
 	[] Entity Framework Core;
-	[] Segurança com ASP.NET Identity;
-	[] Outros...
+	[] JWT - Json Web Tokens;
+	[] Versionamento e Documentação da API com Swagger;
+	[] Logging e Monitoramento utilizando Elmah.Io e HealthChecks;
+	[] Entre outros aprendizados;
 
 <h1 align="center">
   <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01_EscopoProjeto.png" />
