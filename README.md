@@ -26,9 +26,11 @@
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/04.VERSION_API/README.md"> 💻 Versões da API </a>
 </p>
 
-## :rocket: Projeto
+## :rocket: 💻 Escopo do Projeto WebAPI
 
-<b>Cadastrado de Fornecedores e Produtos;</b>
+<p align="left">
+  <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/packages.png"> <b>💻 Packages instalados</b> </a>
+</p>
 
 	[] Projeto desenvolvido em 3 camadas (APP, Business e Data);
 	[] Uso de Repositórios;
@@ -37,13 +39,4 @@
 	[] Segurança com ASP.NET Identity;
 	[] Outros...
 
-<p align="left">
-  <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/packages.png"> <b>💻 Packages instalados</b> </a>
-</p>
-
-## 💻 Layout pagina inicial:
-
-<h1 align="center">
-  <img alt="ASP.NETCore" title="ASP.NETCore" width="100%" src="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/Layout/page_01.png" />
-</h1>
 
