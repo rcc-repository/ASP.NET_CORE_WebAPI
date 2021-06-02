@@ -21,8 +21,7 @@
 
 <p align="left">
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01.HTTP/README.md"> 💻 Protocolo HTTP </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img_Curso/02.REST/README.md"> 💻 Visão sobre o REST </a>&nbsp;&nbsp;|&nbsp;&nbsp
-	
+  <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img_Curso/02.REST/README.md"> 💻 Visão sobre o REST </a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/di/README.md"> 💻 Injeção de Dependência </a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/ef/README.md"> 💻 Entity Framework Core </a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/identity/README.md"> 💻 Identity </a>
