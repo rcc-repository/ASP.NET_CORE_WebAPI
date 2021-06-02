@@ -36,7 +36,7 @@
 
 ## :rocket: 💻 Escopo do Projeto WebAPI
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/packages.png"> <b>💻 Packages instalados</b> </a>
 </p>
 
