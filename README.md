@@ -26,12 +26,6 @@
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/04.VERSION_API/README.md"> 💻 Versões da API </a>
 </p>
 
-## :rocket: 💻 Escopo do Projeto WebAPI
-
-<p align="left">
-  <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/packages.png"> <b>💻 Packages instalados</b> </a>
-</p>
-
 	[] Visão Geral do HTTP;
 	[] API REST (GET / POST / PU / DELETE);
 	[] Entity Framework Core;
@@ -39,6 +33,12 @@
 	[] Versionamento e Documentação da API com Swagger;
 	[] Logging e Monitoramento utilizando Elmah.Io e HealthChecks;
 	[] Entre outros aprendizados;
+
+## :rocket: 💻 Escopo do Projeto WebAPI
+
+<p align="left">
+  <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/packages.png"> <b>💻 Packages instalados</b> </a>
+</p>
 
 <h1 align="center">
   <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01_EscopoProjeto.png" />
