@@ -4,12 +4,18 @@
 
 ## :rocket: Docs:
 
-- [Documentação do ASP.NET](https://docs.microsoft.com/pt-br/aspnet/core/?utm_source=aspnet-start-page&utm_campaign=vside&view=aspnetcore-5.0)
-- [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides?utm_source=aspnet-start-page&utm_campaign=vside)
-- [Início Rápido: Web ASP.NET no Azure](https://docs.microsoft.com/pt-br/azure/app-service/quickstart-dotnetcore?tabs=netcore31#launch-the-publish-wizard?utm_source=aspnet-start-page&utm_campaign=vside)
-- [Azure for .NET developers](https://docs.microsoft.com/pt-br/dotnet/azure/?utm_source=aspnet-start-page&utm_campaign=vside)
-- [FluentValidation](https://fluentvalidation.net/)
-- [SOLID](https://www.eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
+- [Uma visão geral do HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
+- [Microsoft.DotNet.Analyzers](https://www.nuget.org/packages/Microsoft.DotNet.Analyzers.Compatibility/)
+- [Fluent Validation](https://fluentvalidation.net/)
+- [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS)
+- [JWT - Json Web Tokens](https://jwt.io/)
+- [Postman](https://www.postman.com/)
+- [Swagger](https://swagger.io/)
+- [Elmah.Io](https://elmah.io/)
+- [HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)
+- [C# to JSON](https://csharp2json.io/)
+- [Images to BASE64](https://www.base64-image.de/)
+- [GUID Generator](https://www.guidgenerator.com/online-guid-generator.aspx)
 
 ## :rocket: Aprendizados:
 
