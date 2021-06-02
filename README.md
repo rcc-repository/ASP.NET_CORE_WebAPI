@@ -40,10 +40,22 @@
 	[] Outros...
 
 <h1 align="center">
-  <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01_EscopoProjeto.png" /> </br>
+  <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01_EscopoProjeto.png" />
+</h1>
+
+<h1 align="center">
   <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/03_EscopoProjeto.png" />
+</h1>
+
+<h1 align="center">
   <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/04_EscopoProjeto.png" />
+</h1>
+
+<h1 align="center">
   <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/05_EscopoProjeto.png" />	
+</h1>
+
+<h1 align="center">
   <img alt="EscopoPRJ" title="EscopoPRJ" width="70%" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/06_EscopoProjeto.png" />		
 </h1>
 
