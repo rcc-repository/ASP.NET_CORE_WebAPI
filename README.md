@@ -27,7 +27,7 @@
 </p>
 
 	[] Visão Geral do HTTP;
-	[] API REST (GET / POST / PU / DELETE);
+	[] API REST (GET / POST / PUT / DELETE);
 	[] Entity Framework Core;
 	[] JWT - Json Web Tokens;
 	[] Versionamento e Documentação da API com Swagger;
