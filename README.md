@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ASP.NETCore" title="ASP.NETCore" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/LogoCursoAPI.png" />
+  <img alt="LOGO" title="LOGO" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/00_LogoCursoAPI.png" />
 </h1>
 
 ## :rocket: Docs:
@@ -20,7 +20,7 @@
 ## :rocket: Aprendizados:
 
 <p align="left">
-  <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01_ProtocoloHTTP.png"> 💻 Protocolo HTTP </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01.HTTP/README.md"> 💻 Protocolo HTTP </a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/mvc/README.md"> 💻 MVC </a>&nbsp;&nbsp;|&nbsp;&nbsp
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/di/README.md"> 💻 Injeção de Dependência </a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/rcc-repository/ASP.NET_CORE_MVC/blob/main/wwwroot/img/ef/README.md"> 💻 Entity Framework Core </a>&nbsp;&nbsp;|&nbsp;&nbsp;
