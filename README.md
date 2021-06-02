@@ -39,4 +39,12 @@
 	[] Segurança com ASP.NET Identity;
 	[] Outros...
 
+<h1 align="center">
+  <img alt="EscopoPRJ" title="EscopoPRJ" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/01_EscopoProjeto.png" />
+  <img alt="EscopoPRJ" title="EscopoPRJ" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/03_EscopoProjeto.png" />
+  <img alt="EscopoPRJ" title="EscopoPRJ" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/04_EscopoProjeto.png" />
+  <img alt="EscopoPRJ" title="EscopoPRJ" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/05_EscopoProjeto.png" />	
+  <img alt="EscopoPRJ" title="EscopoPRJ" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/06_EscopoProjeto.png" />		
+</h1>
+
 
