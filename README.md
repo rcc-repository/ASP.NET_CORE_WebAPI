@@ -2,6 +2,14 @@
   <img alt="LOGO" title="LOGO" src="https://github.com/rcc-repository/ASP.NET_CORE_WebAPI/blob/main/wwwroot/img_Curso/00_LogoCursoAPI.png" />
 </h1>
 
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://dotnetfoundation.org//">.NET Foundation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/pt-br/dotnet/standard/net-standard">.NET Standard</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/aspnet/">GitHub</a>
+</p>
+
+
 ## :rocket: Docs:
 
 - [Uma visão geral do HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
