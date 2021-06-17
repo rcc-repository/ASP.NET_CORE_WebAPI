@@ -16,6 +16,7 @@
 - [Microsoft.DotNet.Analyzers](https://www.nuget.org/packages/Microsoft.DotNet.Analyzers.Compatibility/)
 - [Fluent Validation](https://fluentvalidation.net/)
 - [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS)
+- [Entity Framework Core](https://docs.microsoft.com/pt-br/ef/core/)
 - [JWT - Json Web Tokens](https://jwt.io/)
 - [Postman](https://www.postman.com/)
 - [Swagger](https://swagger.io/)
